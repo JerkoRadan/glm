@@ -1,2 +1,2 @@
 # glm
-Generalized Linear Model
+Generalized Linear Model - assignment
